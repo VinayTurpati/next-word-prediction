@@ -1,7 +1,7 @@
 # Next Word Prediction of a Sentence
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
-### *Using Natural Language Processing with Deep Learning*
+### Using Natural Language Processing with Deep Learning
 ## Libraries
 - [Keras](https://keras.io/)
 - [Tensorflow](https://www.tensorflow.org/)
@@ -24,5 +24,5 @@ Enter and run the following snippet in the first cell to train in Google Colab e
 !pip install -r requirements.txt
 ```
 
-# LSTM Model:
+## LSTM Model:
 ![LSTM Model](data/model.png)
