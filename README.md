@@ -24,5 +24,5 @@ Enter and run the following snippet in the first cell to train in Google Colab e
 !pip install -r requirements.txt
 ```
 
-#LSTM Model:
+# LSTM Model:
 ![LSTM Model](data/model.png)
