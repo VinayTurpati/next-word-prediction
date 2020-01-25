@@ -7,13 +7,17 @@
 - [Tensorflow](https://www.tensorflow.org/)
 ## Setup
 - Install the requirements.
+
 ```pip install -r requirements.txt```
 
 - Prepare Dataset for training.
+
 ```python prepare_data.py```
 
 - Train the data.
+
 ```python train.py```
+
 You could tune the Parameters by spectifying in settings.py file
 
 ## Google Colab
