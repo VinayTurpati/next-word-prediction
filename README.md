@@ -8,15 +8,15 @@
 ## Setup
 - Install the requirements.
 
-```pip install -r requirements.txt```
+  ```pip install -r requirements.txt```
 
 - Prepare Dataset for training.
 
-```python prepare_data.py```
+  ```python prepare_data.py```
 
 - Train the data.
 
-```python train.py```
+  ```python train.py```
 
 You could tune the Parameters by spectifying in settings.py file
 
