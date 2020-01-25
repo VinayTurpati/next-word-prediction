@@ -20,7 +20,7 @@ You could tune the Parameters by spectifying in settings.py file
 Enter and run the following snippet in the first cell to train in Google Colab environment. Don't forget to set hardware acceleration to GPU to speed up training!
 
 ```
-!git init && git remote add origin https://github.com/notadamking/RLTrader.git && git pull origin master
+!git init && git remote add origin https://github.com/VinayTurpati/next-word-prediction.git && git pull origin master
 !pip install -r requirements.txt
 ```
 
