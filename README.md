@@ -17,7 +17,11 @@
 - Train the data.
 
   ```python train.py```
+  
+or you could specify epoches
 
+  ```python train.py 30```
+  
 You could tune the Parameters by spectifying in settings.py file
 
 ## Google Colab
@@ -26,6 +30,13 @@ Enter and run the following snippet in the first cell to train in Google Colab e
 ```
 !git init && git remote add origin https://github.com/VinayTurpati/next-word-prediction.git && git pull origin master
 !pip install -r requirements.txt
+```
+
+After installing the requirements
+
+```
+python prepare_data.py
+python train.py
 ```
 
 ## LSTM Model:
